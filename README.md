@@ -3,8 +3,7 @@
 To download and run this sample, download the code with the commands below, and
 then follow the steps in the [Community Tutorial][tutorial].
 
-```sh
-
+1.I reproduced the customer issue: 
 
 [tutorial]: https://cloud.google.com/community/tutorials/kotlin-ktor-app-engine-java8
 
